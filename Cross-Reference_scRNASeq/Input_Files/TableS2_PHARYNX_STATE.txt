@@ -1,0 +1,11 @@
+S2_Subcluster	State
+2	N/TS
+3	N/TS
+7	N/TS
+0	P
+9	P
+8	M
+4	M
+6	M
+1	M
+5	M
